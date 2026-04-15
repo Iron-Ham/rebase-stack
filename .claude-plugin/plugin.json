@@ -1,0 +1,12 @@
+{
+  "name": "rebase-stack",
+  "description": "Rebase an entire stack of PRs against the latest base branch, cascading changes through every branch using git rebase --onto",
+  "version": "1.0.0",
+  "author": {
+    "name": "Iron-Ham"
+  },
+  "repository": "https://github.com/Iron-Ham/rebase-stack",
+  "license": "MIT",
+  "keywords": ["git", "rebase", "stacked-prs", "stacked-branches", "onto"],
+  "skills": ["./"]
+}

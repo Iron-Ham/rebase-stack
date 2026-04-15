@@ -1,0 +1,16 @@
+{
+  "name": "rebase-stack",
+  "owner": {
+    "name": "Iron-Ham",
+    "url": "https://github.com/Iron-Ham"
+  },
+  "metadata": {
+    "description": "Rebase an entire stack of PRs against the latest base branch using git rebase --onto"
+  },
+  "plugins": [
+    {
+      "name": "rebase-stack",
+      "source": "."
+    }
+  ]
+}
